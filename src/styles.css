@@ -8,6 +8,18 @@ body{
     border-radius: 100%;
     border: 2px solid #ddd;
 }
+.nav-text{
+    display: inline;
+    padding-bottom: 4px;
+    border-bottom: 3px solid #f9dd94;
+    text-transform: uppercase;
+    margin: 0 20px;
+    text-decoration: none;
+    color: #0073e6;
+    font-weight: bold;
+} 
+
+
 .logo{
     /* color: #fff;
     text-shadow:
